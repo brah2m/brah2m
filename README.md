@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I’m Ahmed 👋
+Computer science student from Tunisia passionate about programming, software development, and problem solving.
 
-<!--
-**brah2m/brah2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working with:
 
-Here are some ideas to get you started:
+* Python 🐍
+* C programming ⚡
+* Data structures & algorithms
+* SQL & databases
+* Networking & operating systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also like building projects, learning new technologies, and improving my coding skills every day.
+
+### Currently
+
+* Studying computer science
+* Exploring software engineering concepts
+* Working on personal coding projects
+
+### Goals
+
+* Become a skilled software engineer
+* Contribute to open-source projects
+* Build useful and creative applications
+
+📫 Feel free to connect and check out my repositories!
